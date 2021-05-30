@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "aws sdk for node js example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",   
+    "sdk",
+    "nodejs",
+    "S3 and Cost Explorer Example"
+  ],
+  "author": "monty",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.918.0",
+    "dotenv": "^10.0.0"
+  }
+}
